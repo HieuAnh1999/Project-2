@@ -1,0 +1,117 @@
+.text {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 34px;
+    line-height: 50px;
+    margin-bottom: 24px;
+}
+.text-1 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+}
+.text-2 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 50px;
+    margin-bottom: 24px;
+}
+.text-3 {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 26px;
+    margin-bottom: 24px;
+}
+.text-4 {
+    font-family: Montserrat;
+    font-weight: 600px;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.02cm;
+}
+.text-5 {
+    color: #CCCCCC;
+    font-size: 14px;
+    line-height: 140%;
+    font-weight: normal;
+}
+.text-6 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+    color: rgba(0, 0, 0, 0.6);
+}
+.icons {
+    text-align: center;
+    margin: auto;
+    margin-top: 115px;
+    padding-top: 54px;
+    padding-bottom: 54px;
+    background: #f5f6f9;
+}
+.icons .icon {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.title {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34px;
+    line-height: 50px;
+    margin-bottom: 90px;
+}
+.list {
+    padding: 16px 26px 0px 16px;
+}
+.my-list-group.list-group {
+    border-radius: 16px;
+    background: #ffff;
+    padding-top: 32px;
+    padding-right: 97px;
+    padding-left: 80px;
+    padding-bottom: 25px;
+}
+.item-list-group {
+    border-radius: 16px;
+    border: 0.5px solid #007BFF;
+}
+::placeholder {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: rgba(0, 0, 0, 0.34);
+}
+.content {
+    font-size: 14px;
+    padding-left: 8px;
+    background: #ffff;
+}
+footer {
+    display: block;
+    background: rgba(13, 13, 37, 0.95);
+    font-size: 100%;
+}
+.logo {
+    margin-top: 70px;
+}
+.slogan {
+    margin-top: 18px;
+}
+.inline {
+    margin: 20px;
+    font-size: 12px;
+    margin-left: 0px;
+}
+.inline1 {
+    margin: 20px;
+    font-size: 12px;
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+}
